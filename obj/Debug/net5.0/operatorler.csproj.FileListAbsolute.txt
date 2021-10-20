@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\operatorler\bin\Debug\net5.0\operatorler.exe
+D:\yazılım\pratikler\operatorler\bin\Debug\net5.0\operatorler.deps.json
+D:\yazılım\pratikler\operatorler\bin\Debug\net5.0\operatorler.runtimeconfig.json
+D:\yazılım\pratikler\operatorler\bin\Debug\net5.0\operatorler.runtimeconfig.dev.json
+D:\yazılım\pratikler\operatorler\bin\Debug\net5.0\operatorler.dll
+D:\yazılım\pratikler\operatorler\bin\Debug\net5.0\ref\operatorler.dll
+D:\yazılım\pratikler\operatorler\bin\Debug\net5.0\operatorler.pdb
+D:\yazılım\pratikler\operatorler\obj\Debug\net5.0\operatorler.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\operatorler\obj\Debug\net5.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\operatorler\obj\Debug\net5.0\operatorler.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\operatorler\obj\Debug\net5.0\operatorler.AssemblyInfo.cs
+D:\yazılım\pratikler\operatorler\obj\Debug\net5.0\operatorler.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\operatorler\obj\Debug\net5.0\operatorler.dll
+D:\yazılım\pratikler\operatorler\obj\Debug\net5.0\ref\operatorler.dll
+D:\yazılım\pratikler\operatorler\obj\Debug\net5.0\operatorler.pdb
+D:\yazılım\pratikler\operatorler\obj\Debug\net5.0\operatorler.genruntimeconfig.cache
